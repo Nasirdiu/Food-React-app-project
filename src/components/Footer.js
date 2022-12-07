@@ -21,7 +21,7 @@ const Footer = () => {
         <ul class="mt-8 flex justify-center gap-6 sm:justify-start md:gap-8">
           <li>
             <a
-              href="/"
+              href="https://www.facebook.com/Nasir369"
               rel="noreferrer"
               target="_blank"
               class="text-teal-700 transition hover:text-teal-700/75"
@@ -44,7 +44,7 @@ const Footer = () => {
 
           <li>
             <a
-              href="/"
+              href="https://www.instagram.com/nasiruddincse/"
               rel="noreferrer"
               target="_blank"
               class="text-teal-700 transition hover:text-teal-700/75"
@@ -67,7 +67,7 @@ const Footer = () => {
 
           <li>
             <a
-              href="/"
+              href="https://twitter.com/nasircse369"
               rel="noreferrer"
               target="_blank"
               class="text-teal-700 transition hover:text-teal-700/75"
@@ -88,7 +88,7 @@ const Footer = () => {
 
           <li>
             <a
-              href="/"
+              href="https://github.com/nasirdiu"
               rel="noreferrer"
               target="_blank"
               class="text-teal-700 transition hover:text-teal-700/75"
