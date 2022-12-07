@@ -5,6 +5,8 @@ import Footer from './components/Footer';
 import HeadlineCards from './components/HeadlineCards';
 import Hero from './components/Hero';
 import Navbar from './components/Navbar';
+import ScrollToTops from './ScrollToTop/ScrollToTops';
+
 
 function App() {
   return (
@@ -15,6 +17,7 @@ function App() {
         <Food/>
         <Category/>
         <Footer/>
+        <ScrollToTops/>
     </div>
   );
 }
